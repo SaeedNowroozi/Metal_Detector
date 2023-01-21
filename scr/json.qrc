@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Metal_Detector/setting.json</file>
+    </qresource>
+</RCC>

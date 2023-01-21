@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/Metal_Detector">
+<file alias="main.qml">/home/saeed/Desktop/Mobile_Metal_Detector/Metal_Detector/main.qml</file>
+</qresource>
+</RCC>
